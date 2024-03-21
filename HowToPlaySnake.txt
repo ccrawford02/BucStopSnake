@@ -1,0 +1,1 @@
+To play snake, all you must do is use the arrow keys on a keyboard or on mobile to move the snake around the screen, the snake can only move up, down, left, or right. The snake cannot go backwards. The goal is to capture as many apples as possible and grow the snake to be as long as possible.
