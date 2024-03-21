@@ -1,0 +1,1 @@
+The classic snake game is a simple yet addictive game where the player controls a snake, maneuvering it around a rectangular grid to eat apples. The snake grows a bit longer with each apple it consumes, this makes it more challenging to avoid hitting the snake's tail. The game ends when this occurs.
